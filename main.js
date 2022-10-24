@@ -5,5 +5,7 @@ function doSomething() {
 
 function doSomethingElse() {
   console.log("ok");
+  console.log("i did something");
+
 }
 doSomething();
